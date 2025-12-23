@@ -1,4 +1,4 @@
-# MorphAny3D
+# MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
 
 [**Project Page**](https://xiaokunsun.github.io/MorphAny3D.github.io) | [**Arxiv**](https://arxiv.org/pdf/2408.09126)
 
