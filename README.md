@@ -1,6 +1,6 @@
 <div align="center">
 
-# MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
+# [CVPR 2026] MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
 
 <div>
     <a href="https://xiaokunsun.github.io"><strong>Xiaokun Sun</strong></a><sup>1</sup>,
@@ -30,14 +30,14 @@
 </div>
 
 ## 🚧 Code
-The code will be released after the paper is accepted.
+The code will be released soon.
 
 ## 📚 BibTeX
 ```bibtex
-@article{sun2026morphany3d,
+@inproceedings{sun2026morphany3d,
   title={MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing},
   author={Sun, Xiaokun and Cai, Zeyu and and Tang, Hao and Tai, Ying and Yang, Jian and Zhang, Zhenyu},
-  journal={arXiv preprint arXiv:2601.00204},
+  booktitle=CVPR,
   year={2026}
 }
 ```
