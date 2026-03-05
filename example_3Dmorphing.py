@@ -3,7 +3,7 @@ import os
 os.environ['SPCONV_ALGO'] = 'native'        # Can be 'native' or 'auto', default is 'auto'.
                                             # 'auto' is faster but will do benchmarking at the beginning.
                                             # Recommended to set to 'native' if run only once.
-os.environ["CUDA_VISIBLE_DEVICES"] = "7"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 from PIL import Image
 from trellis.pipelines import TrellisImageTo3DPipeline
 from trellis.utils.morphing_utils import *
