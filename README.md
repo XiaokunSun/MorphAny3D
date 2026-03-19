@@ -24,7 +24,7 @@
 
 [![ArXiv](https://img.shields.io/badge/ArXiv-2601.00204-b31b1b.svg)](https://arxiv.org/pdf/2601.00204)
 [![Project Page](https://img.shields.io/badge/Project%20Page-MorphAny3D-Green.svg)](https://xiaokunsun.github.io/MorphAny3D.github.io)
-
+[![Blog](https://img.shields.io/badge/Blog-新智元-blue.svg)](https://mp.weixin.qq.com/s/NIfDF0RUEidH0tIlPw0gHw)
 <br>
 <img src="assets/teaser.png" alt="Teaser" width="100%">
 </div>
