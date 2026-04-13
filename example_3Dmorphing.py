@@ -51,7 +51,7 @@ for idx in range(len(src_img_path_list)):
 
     name = src_name + "+" + tar_name
 
-    morphing_params = {"morphing_num": 50, "src_load_cache_path": src_save_cache_path, "tar_load_cache_path": tar_save_cache_path, "init_morphing_flag": False, "ss_mca_flag": True, "slat_mca_flag": True, "ss_tfsa_flag": True, "slat_tfsa_flag": True, "oc_flag": True} # When you observe orientation jumps, set oc_flag to True
+    morphing_params = {"morphing_num": 50, "src_load_cache_path": src_save_cache_path, "tar_load_cache_path": tar_save_cache_path, "init_morphing_flag": False, "ss_mca_flag": True, "slat_mca_flag": True, "ss_tfsa_flag": True, "slat_tfsa_flag": True, "oc_flag": False} # When you observe orientation jumps, set oc_flag to True
     save_path = os.path.join(save_dir_path, "3Dmorphing", name)
     os.makedirs(save_path, exist_ok=True)
     save_cache_path = os.path.join(save_path, "cache")
